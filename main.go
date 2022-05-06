@@ -13,7 +13,7 @@ import (
 	"log"
 )
 
-var (
+const (
 	outBucketName = "golang-output-bucket"
 )
 
